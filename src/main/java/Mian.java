@@ -8,6 +8,12 @@ public class Mian {
         System.out.println("ssh");
         System.out.println("ssh");
         System.out.println("ssh1111");
+        System.out.printf("333");
+        System.out.println("ssh");
+        System.out.println("ssh");
+        System.out.println("ssh");
+        System.out.println("ssh");
+        System.out.println("ssh1111");
         
     }
 }
