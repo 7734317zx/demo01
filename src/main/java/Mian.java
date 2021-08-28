@@ -4,5 +4,6 @@ public class Mian {
         System.out.printf("222");
         System.out.printf("333");
         System.out.println("ssh");
+        System.out.println("ssh");
     }
 }
